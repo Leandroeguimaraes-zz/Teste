@@ -13,6 +13,7 @@
         <Button x:Name="button2" Content="Button" HorizontalAlignment="Left" Margin="106,228,0,0" VerticalAlignment="Top" Width="75"/>
         <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="66,121,0,0" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="button3" Content="Button" HorizontalAlignment="Left" Margin="223,106,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="button4" Content="Button" HorizontalAlignment="Left" Margin="66,54,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
